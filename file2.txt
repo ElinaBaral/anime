@@ -1,1 +1,2 @@
 line 1 added in file 2
+line 2 is alos added in file 2
