@@ -1,0 +1,2 @@
+line 1 added to file 4
+line 2 is also added to file 4
